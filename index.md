@@ -4,14 +4,14 @@
     <div id="header">
       <table>
         <tr>
-          <td>home</td>
-          <td>meet the grains</td>
-          <td>store</td>
-          <td>tour</td>
+          <td><a href="/index">home</a></td>
+          <td><a href="/grains">meet the grains</a></td>
+          <td><a href="/store">store</a></td>
+          <td><a href="/tour">tour</a></td>
         </tr>
       </table>
     </div>
-    <h1>welcome to ancient grains dot com</h1>
+    <h1>ancient grains dot com</h1>
     <p>welcome to the grainvolution</p>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7P_1zDmkOXtm75ae1Ac4_gHaEK%26pid%3DApi&f=1">
   </body>
