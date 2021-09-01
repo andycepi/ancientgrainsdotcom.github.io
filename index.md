@@ -4,7 +4,7 @@
     <div id="header">
       <table>
         <tr>
-          <td>home</td></tr>
+          <td>home</td>
           <td>meet the grains</td>
           <td>store</td>
           <td>tour</td>
