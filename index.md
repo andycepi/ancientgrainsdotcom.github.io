@@ -3,10 +3,12 @@
   <body>
     <div id="header">
       <table>
-        <tr><td>home</td></tr>
-        <tr><td>meet the grains</td></tr>
-        <tr><td>store</td></tr>
-        <tr><td>tour</td></tr>
+        <tr>
+          <td>home</td></tr>
+          <td>meet the grains</td>
+          <td>store</td>
+          <td>tour</td>
+        </tr>
       </table>
     </div>
     <h1>welcome to ancient grains dot com</h1>
