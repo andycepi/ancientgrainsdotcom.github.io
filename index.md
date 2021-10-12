@@ -3,10 +3,10 @@
     <div id="header">
       <table>
         <tr>
-          <td><a href="/index.md">home</a></td>
-          <td><a href="/grains.md">meet the grains</a></td>
-          <td><a href="/store.md">store</a></td>
-          <td><a href="/tour.md">tour</a></td>
+          <td><a href="/index.html">home</a></td>
+          <td><a href="/grains.html">meet the grains</a></td>
+          <td><a href="/store.html">store</a></td>
+          <td><a href="/tour.html">tour</a></td>
         </tr>
       </table>
     </div>
